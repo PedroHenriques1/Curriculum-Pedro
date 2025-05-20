@@ -7,7 +7,10 @@ Bem-vindo ao repositório do meu currículo online!
 
 Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória acadêmica, experiências profissionais, habilidades técnicas
 e outras informações relevantes de forma interativa e acessível na web.
+--
 **Não esqueça de acessar a parte de portfólio também para ver alguns dos meus projetos!**
+--
+
 ![image](https://github.com/user-attachments/assets/18dc5cab-f8fc-47f3-9ad5-6ff7d6971e78)
 
 
