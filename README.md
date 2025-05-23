@@ -11,7 +11,7 @@ e outras informações relevantes de forma interativa e acessível na web.
 **Não esqueça de acessar a parte de portfólio também para ver alguns dos meus projetos!**
 --
 
-![image](https://github.com/user-attachments/assets/18dc5cab-f8fc-47f3-9ad5-6ff7d6971e78)
+![image](https://github.com/user-attachments/assets/6751218d-b225-4d73-bcd0-da61424522c3)
 
 
 🚀 Como visualizar
