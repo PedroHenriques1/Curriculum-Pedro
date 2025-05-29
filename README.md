@@ -1,5 +1,4 @@
 📄 Curriculum Pedro Henrique
-Bem-vindo ao repositório do meu currículo online!
 
 🔗 Acesse meu currículo online:
 --
