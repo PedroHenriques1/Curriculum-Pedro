@@ -4,7 +4,7 @@
 --
 👉 [pedrohenriques1.github.io/Curriculum-Pedro](https://pedrohenriques1.github.io/Curriculum-Pedro/)
 
-Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória acadêmica, experiências profissionais, habilidades técnicas
+ #Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória acadêmica, experiências profissionais, habilidades técnicas
 e outras informações relevantes de forma interativa, responsiva e acessível na web.
 --
 **Não esqueça de acessar a parte de portfólio também para ver alguns dos meus projetos!**
