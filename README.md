@@ -12,6 +12,8 @@ e outras informações relevantes de forma interativa, responsiva e acessível n
 
 ![image](https://github.com/user-attachments/assets/6751218d-b225-4d73-bcd0-da61424522c3)
 
+![image](https://github.com/user-attachments/assets/79a312e2-41d2-4b22-bd17-05fedcbdfc4e)
+
 
 🚀 Como visualizar
 Basta acessar o link acima em qualquer navegador moderno. O site é responsivo e pode ser visualizado em dispositivos móveis e desktops.
