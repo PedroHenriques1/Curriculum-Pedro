@@ -6,13 +6,22 @@
 --
 Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória acadêmica, experiências profissionais, habilidades técnicas
 e outras informações relevantes de forma interativa, responsiva e acessível na web.
---
+
 **Não esqueça de acessar a parte de portfólio também para ver alguns dos meus projetos!**
 --
 
 ![image](https://github.com/user-attachments/assets/6751218d-b225-4d73-bcd0-da61424522c3)
+Tela Inicial 
 
-![image](https://github.com/user-attachments/assets/79a312e2-41d2-4b22-bd17-05fedcbdfc4e)
+![image](https://github.com/user-attachments/assets/2b6484f3-ecba-4179-b165-b9f368abd9d8)
+Portfólio com alguns dos meus projetos que encaminham ou para o projeto web ou para o repositório dele localizado no Github.
+
+![image](https://github.com/user-attachments/assets/aedc3990-5da8-42a9-b0d0-e538fc0df2c7)
+Contato Totalmente funcional (IMPLENTADO com Api do Google Maps e Formspree com anti-spam, e Verificador reCAPTCHA 
+
+![image](https://github.com/user-attachments/assets/e8ff1bff-f6a5-46ec-8ded-bcfd8b60f994)
+Blog (que por enquanto está fora do ar)
+
 
 
 🚀 Como visualizar
