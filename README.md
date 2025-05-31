@@ -27,5 +27,5 @@ Blog (que por enquanto se encontra fora do ar)
 
 
 
-#🚀 Como visualizar
+🚀 Como visualizar
 Basta acessar o link acima em qualquer navegador . O site é responsivo e pode ser visualizado em dispositivos móveis e desktops.
