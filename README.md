@@ -3,7 +3,6 @@
 🔗 Acesse meu currículo online:
 --
 👉 [pedrohenriques1.github.io/Curriculum-Pedro](https://pedrohenriques1.github.io/Curriculum-Pedro/)
-
 --
 Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória acadêmica, experiências profissionais, habilidades técnicas
 e outras informações relevantes de forma interativa, responsiva e acessível na web.
